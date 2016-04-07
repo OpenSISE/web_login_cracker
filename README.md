@@ -21,6 +21,10 @@
 <li>可通过使用<a href="http://drops.wooyun.org/tips/13043">简单验证码识别及工具编写思路 | WooYun知识库</a>中的验证码识别工具爆破有验证码的网站</li>
 </ol>
 
+<h2 id="需求">需求</h2>
+
+<p>需要安装requests模块</p>
+
 <h2 id="使用方法">使用方法</h2>
 
 <ol>
