@@ -31,26 +31,26 @@
 <p>Usage: D:/web_login_cracker.py -r [request file] -u [usernames file] -p [passwords file] --error_password [error_password_signatures]</p>
 
 <p>Options: <br>
-  -h, –help            show this help message and exit <br>
-  -r REQUEST_FILE, –req_file=REQUEST_FILE <br>
+  -h, ––help            show this help message and exit <br>
+  -r REQUEST_FILE, ––req_file=REQUEST_FILE <br>
                         specify web login request file <br>
-  -u USERNAMES_FILE, –usernames_file=USERNAMES_FILE <br>
+  -u USERNAMES_FILE, ––usernames_file=USERNAMES_FILE <br>
                         specify usernames dict file <br>
-  -p PASSWORDS_FILE, –passwords_file=PASSWORDS_FILE <br>
+  -p PASSWORDS_FILE, ––passwords_file=PASSWORDS_FILE <br>
                         specify passwords dict file <br>
-  -R, –recovery        recovery progress <br>
-  -P VERIFYTOOL_LISTEN_PORT, –port=VERIFYTOOL_LISTEN_PORT <br>
+  -R, ––recovery        recovery progress <br>
+  -P VERIFYTOOL_LISTEN_PORT, ––port=VERIFYTOOL_LISTEN_PORT <br>
                         VerifyTool listen port <br>
-  -c CODE_URL, –code_url=CODE_URL <br>
+  -c CODE_URL, ––code_url=CODE_URL <br>
                         specify verifycode url <br>
-  –https               use https protocol <br>
-  –cookie_url=COOKIE_URL <br>
+  ––https               use https protocol <br>
+  ––cookie_url=COOKIE_URL <br>
                         specify get cookies url <br>
-  –error_username=ERROR_USERNAME <br>
+  ––error_username=ERROR_USERNAME <br>
                         username does not exist Keyword(regex) <br>
-  –error_password=ERROR_PASSWORD <br>
+  ––error_password=ERROR_PASSWORD <br>
                         password error keyword(regex) <br>
-  –error_code=ERROR_CODE <br>
+  ––error_code=ERROR_CODE <br>
                         verifycode Error Keywords(regex)</p>
 </code></pre>
 <p>example: <br>
